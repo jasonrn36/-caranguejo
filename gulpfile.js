@@ -1,4 +1,4 @@
-const { src, dest, watch, series } = require('gulp');
+const { src, dest, watch, series, parallel } = require('gulp');
 const sass = require('gulp-sass')(require('sass'));
 
 function compilarSass() {
@@ -15,11 +15,13 @@ function copiarHTML() { // funcão para copiar arquivos HTML
 }
 
 // função para observar mudanças nos arquivos
-function observar() { 
-watch('src/scss/**/*.scss', compilarSass, copiarHTML);
-    console.log("Observando tarefas de compilação de Sass...");
+function observar() {
+    watch('src/**/*.html', copiarHTML);
+    // observar SCSS
+    watch('src/estilos/**/*.scss', compilarSass);
 }
 
 // tarefa para compilar Sass e copiar HTML
 exports.build = series(compilarSass, copiarHTML); 
-exports.default = observar;
+// tarefa para observar mudanças nos arquivos
+exports.default = observar
