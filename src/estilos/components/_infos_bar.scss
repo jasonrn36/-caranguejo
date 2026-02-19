@@ -1,0 +1,45 @@
+.infos-bar {
+    z-index: 4;
+    padding: 16px 24px;
+    display: flex;
+    background-color: #fff;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 16px;
+
+    &__infos {
+        display: flex;
+        gap: 40px;
+
+        &__item {
+            font-size: 14px;
+            color: #000;
+            b {
+                font-size: 18px;
+                display: block;
+                color: #000;
+            }
+        }
+    }
+
+    @media (max-width:640px) {
+            display: block; // para colocar os itens um embaixo do outro
+
+            &__infos { //para centralizar os itens
+                display: block;
+                align-items: center;
+
+                &__item {
+                    margin-bottom: 24px;
+                    width: 100%;
+                }
+        }
+    }
+
+    @media (max-width: 1024px) {
+        
+        &__infos {
+            gap: 16px;
+        }
+    }
+}

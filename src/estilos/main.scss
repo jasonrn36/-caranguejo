@@ -1,11 +1,28 @@
-* {
+@use 'hero'; //importando arquivo hero.scss para main.scss
+@use 'components/_infos_bar'; //importando arquivo infos_bar.scss para main.scss
+@use 'components/_buttons'; //importando arquivo buttons.scss para main.scss
+@use 'components/_event'; //importando arquivo event.scss para main.scss
+@use 'components/variables'; //importando arquivo variables.scss para main.scss
+
+* { // Reset
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: open-sans, sans-serif;
+    color: variables.$textColor;
+    list-style: none;
 }
 
-body {
-    font-family: Arial, sans-serif;
-    background-color: #0000fd;
-    color: black;
+.container {
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+
+    @media (max-width: 640px) {
+        max-width: 80%;
+    }
+    @media (max-width: 1024px) {
+        max-width: 90%;
+    }
 }
+

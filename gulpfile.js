@@ -1,27 +1,28 @@
-const { src, dest, watch, series, parallel } = require('gulp');
+const { src, dest, watch, series } = require('gulp');
 const sass = require('gulp-sass')(require('sass'));
 
 function compilarSass() {
-    return src('src/estilos/**/*.scss') // seleciona todos os arquivos SCSS na pasta src/estilos
-    .pipe(sass({ outputStyle: 'compressed' }))
-    .pipe(dest('dist/css'));
-    console.log("Ok suas Pastas foram compiladas \n de scss para css.");
+    return src('src/estilos/**/*.scss')
+        .pipe(sass({ outputStyle: 'compressed' }))
+        .pipe(dest('dist/estilos'));
 }
 
-function copiarHTML() { // funcão para copiar arquivos HTML
-    return src('src/*.html') // seleciona todos os arquivos HTML na pasta src
-    .pipe(dest('dist')); // copia os arquivos HTML para a pasta dist
-    console.log("Ok suas Pastas foram copiadas \n de src para dist."); // mensagem de sucesso
+function copiarHTML() {
+    return src('src/*.html')
+        .pipe(dest('dist'));
 }
 
-// função para observar mudanças nos arquivos
+function comprimirImagens(done) {
+    require('./src/js/compress_image.js');
+    done();
+}
+
+
 function observar() {
     watch('src/**/*.html', copiarHTML);
-    // observar SCSS
     watch('src/estilos/**/*.scss', compilarSass);
+    watch('src/imagens/**/*', comprimirImagens);
 }
 
-// tarefa para compilar Sass e copiar HTML
-exports.build = series(compilarSass, copiarHTML); 
-// tarefa para observar mudanças nos arquivos
-exports.default = observar
+exports.build = series(compilarSass, copiarHTML, comprimirImagens);
+exports.default = observar;
