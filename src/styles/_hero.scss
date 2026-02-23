@@ -1,0 +1,18 @@
+.hero {
+    padding-top: 64px;
+    padding-bottom: 100px;
+    background-image: url("../images/CArangueijo_Hero05.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    &__text {
+        margin-top: 64px;
+        margin-bottom: 64px;
+    }
+
+    &__logo {
+        display: block;
+        margin: 0 auto;
+        height: 80px;
+    }
+}

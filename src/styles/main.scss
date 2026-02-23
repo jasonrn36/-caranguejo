@@ -1,3 +1,24 @@
-body {
-    background-color: red;
+@use 'hero';
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Outfit", sans-serif;
 }
+
+.container {
+    max-width: 960px; //Max resolution to screen
+    width: 100%; // the max opuppation space in the screen
+    margin: 0 auto; // here i centralized the contain
+    
+    // All right, let it's GO kkkkkk
+    @media (max-width:640px) { // Resolution to smartphone
+        max-width: 80%;
+    }
+        @media (max-width:1024px) { //Resolution to Tablet
+        max-width: 90%;
+    }
+
+}
+

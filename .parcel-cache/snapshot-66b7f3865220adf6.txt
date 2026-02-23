@@ -1,4 +1,4 @@
-3712
+3716
 84C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel\diagnostic\src134163264277956694 1
 61C:\Users\JasonDeveloper\Documents\Caranguejo_v01\package.json134163281618950919 0
 80C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\.package-lock.json134163281619642000 0
@@ -20,12 +20,16 @@
 102C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\caniuse-lite\data\features\web-serial.js134163264348862034 0
 79C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\lmdb\src\misc.cpp134163264336073836 0
 71C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@mischnic134163264269897438 1
-53C:\Users\JasonDeveloper\Documents\Caranguejo_v01\dist134163281692042047 1
+53C:\Users\JasonDeveloper\Documents\Caranguejo_v01\dist134163304380392233 1
 92C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\postcss-value-parser\README.md134163264285639895 0
 94C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel\resolver-default\LICENSE134163264276396207 0
 82C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\json5\lib\require.js134163264285985284 0
 111C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel\source-map\parcel_sourcemap_node\index.js134163264286875221 0
 106C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\node-gyp-build-optional-packages\optional.js134163264279308338 0
+59C:\Users\JasonDeveloper\Documents\Caranguejo_v01\.gitignore134163283687868925 0
+87C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\semver\ranges\simplify.js134163264297419283 0
+90C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel\cache\lib\types.d.ts134163264289725576 0
+79C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@msgpackr-extract134163264270987834 1
 105C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel\core\test\fixtures\config\.parcelrc134163264285880911 0
 105C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\caniuse-lite\data\features\input-pattern.js134163264343917505 0
 79C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel\core\test134163264338573566 1
@@ -54,7 +58,7 @@
 103C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@swc\helpers\_\_ts_generator\package.json134163264340595294 0
 100C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\sharp\node_modules\detect-libc\LICENSE134163281614687549 0
 87C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel\optimizer-svg\src134163264277935286 1
-63C:\Users\JasonDeveloper\Documents\Caranguejo_v01\src\index.html134163281691715134 0
+63C:\Users\JasonDeveloper\Documents\Caranguejo_v01\src\index.html134163304367586781 0
 111C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@swc\helpers\cjs\_possible_constructor_return.cjs134163264323167573 0
 115C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\caniuse-lite\data\features\background-position-x-y.js134163264323930207 0
 67C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\tslib134163264287616621 1
@@ -81,15 +85,22 @@
 85C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\browserslist\index.d.ts134163264286039286 0
 80C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\sharp\node_modules134163281614282473 1
 88C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@swc\helpers\_\_call_super134163264338734943 1
-59C:\Users\JasonDeveloper\Documents\Caranguejo_v01\src\styles134163266023522091 1
+59C:\Users\JasonDeveloper\Documents\Caranguejo_v01\src\styles134163301310314164 1
 77C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\.bin\semver.ps1134163264349754316 0
 93C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\caniuse-lite\data\regions\BH.js134163264334293512 0
 105C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\electron-to-chromium\chromium-versions.json134163264284871043 0
 98C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@swc\helpers\esm\_read_only_error.js134163264337150846 0
-69C:\Users\JasonDeveloper\Documents\Caranguejo_v01\src\styles\main.scss134163266112088141 0
+69C:\Users\JasonDeveloper\Documents\Caranguejo_v01\src\styles\main.scss134163303060387906 0
 91C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\sass\types\value\boolean.d.ts134163273284260679 0
 89C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\semver\functions\compare.js134163264286395841 0
 113C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\caniuse-lite\data\features\dom-manip-convenience.js134163264341996705 0
+79C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\sass\sass.node.js134163273283882778 0
+67C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\chalk134163264284588956 1
+93C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\caniuse-lite\data\regions\PF.js134163264346110838 0
+107C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\lmdb\node_modules\node-addon-api\package.json134163264290072287 0
+76C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\weak-lru-cache134163264285569782 1
+95C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel\reporter-cli\src\utils.js134163264288378421 0
+70C:\Users\JasonDeveloper\Documents\Caranguejo_v01\src\styles\_hero.scss134163303941623146 0
 114C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\caniuse-lite\data\features\prefers-reduced-motion.js134163264346423292 0
 68C:\Users\JasonDeveloper\Documents\Caranguejo_v01\src\scripts\main.js134163264733745708 0
 92C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\sass\types\legacy\options.d.ts134163273284771280 0
@@ -152,10 +163,6 @@
 97C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@swc\helpers\_\_array_like_to_array134163264338528171 1
 81C:\Users\JasonDeveloper\Documents\Caranguejo_v01\src\images\Palco_carangueijo.jpg134159043569130843 0
 80C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\picomatch\index.js134163264277625903 0
-75C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\lmdb\write.js134163264338179312 0
-95C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\caniuse-lite\data\features\wav.js134163264348802037 0
-93C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel\core\lib\Environment.js134163264334129028 0
-94C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\node-gyp-build-optional-packages134163264281188572 1
 66C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\.bin134163273285222173 1
 108C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel\core\test\fixtures\application-targets134163264338972245 1
 83C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\semver\internal\re.js134163264295806632 0
@@ -179,9 +186,6 @@
 78C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\tslib\tslib.d.ts134163264287205763 0
 91C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel\profiler\src\index.js134163264279034833 0
 75C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\picomatch\lib134163264285670245 1
-87C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\semver\ranges\simplify.js134163264297419283 0
-90C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel\cache\lib\types.d.ts134163264289725576 0
-79C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@msgpackr-extract134163264270987834 1
 69C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel134163273282376368 1
 66C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@swc134163264271008998 1
 109C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@swc\helpers\_\_class_static_private_method_get134163264339310206 1
@@ -209,8 +213,6 @@
 80C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\nullthrows\LICENSE134163264276761023 0
 74C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\caniuse-lite134163264349477487 1
 114C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\caniuse-lite\data\features\link-rel-modulepreload.js134163264344640277 0
-79C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\sass\sass.node.js134163273283882778 0
-67C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\chalk134163264284588956 1
 70C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\chokidar134163273283751074 1
 93C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\caniuse-lite\data\regions\EE.js134163264342116307 0
 96C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\caniuse-lite\data\features\cors.js134163264336858635 0
@@ -275,6 +277,10 @@
 83C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel\graph\LICENSE134163264276364939 0
 102C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\caniuse-lite\data\features\fullscreen.js134163264342906369 0
 85C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\semver\functions\neq.js134163264293624544 0
+75C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\lmdb\write.js134163264338179312 0
+95C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\caniuse-lite\data\features\wav.js134163264348802037 0
+93C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel\core\lib\Environment.js134163264334129028 0
+94C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\node-gyp-build-optional-packages134163264281188572 1
 81C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel\logger\test134163264279044825 1
 85C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\escalade\sync\index.mjs134163264284602212 0
 91C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\utility-types\dist\index.d.ts134163264290955309 0
@@ -358,13 +364,10 @@
 86C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\nullthrows\nullthrows.js134163264278377576 0
 85C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\dotenv-expand\config.js134163264276761023 0
 84C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\update-browserslist-db134163264283213485 1
-73C:\Users\JasonDeveloper\Documents\Caranguejo_v01\dist\styles\main.css.map134163281663806338 0
+73C:\Users\JasonDeveloper\Documents\Caranguejo_v01\dist\styles\main.css.map134163304379564119 0
 87C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\chalk\source\templates.js134163264278295533 0
 75C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\utility-types134163264288871133 1
 113C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_copy.1134163264293979064 0
-93C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\caniuse-lite\data\regions\PF.js134163264346110838 0
-107C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\lmdb\node_modules\node-addon-api\package.json134163264290072287 0
-76C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\weak-lru-cache134163264285569782 1
 82C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\nullthrows\README.md134163264280549492 0
 78C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\globals\index.js134163264276750943 0
 81C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\weak-lru-cache\dist134163264276211291 1
@@ -373,7 +376,7 @@
 95C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@swc\helpers\esm\_create_class.js134163264335892926 0
 85C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\weak-lru-cache\index.js134163264277978596 0
 100C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\ordered-binary\.nyc_output\processinfo134163264285985284 1
-73C:\Users\JasonDeveloper\Documents\Caranguejo_v01\dist\scripts\main.js.map134163281663432379 0
+73C:\Users\JasonDeveloper\Documents\Caranguejo_v01\dist\scripts\main.js.map134163304379564119 0
 83C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\sharp\src\pipeline.cc134163281616050592 0
 106C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\caniuse-lite\data\features\es6-generators.js134163264342293958 0
 102C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\caniuse-lite\data\features\filesystem.js134163264342583581 0
@@ -446,6 +449,7 @@
 93C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\lightningcss\node\index.js.flow134163264282529324 0
 106C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\utility-types\dist\functional-helpers.js.map134163264286395841 0
 87C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\ordered-binary\index.d.ts134163264287927228 0
+83C:\Users\JasonDeveloper\Documents\Caranguejo_v01\dist\Logo_carangueijo.313a5e07.png134163304379466123 0
 102C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\utility-types\dist\aliases-and-guards.js134163264277062868 0
 106C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\utility-types\dist\aliases-and-guards.js.map134163264285670245 0
 105C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\caniuse-lite\data\features\web-bluetooth.js134163264348842052 0
@@ -738,13 +742,13 @@
 94C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@swc\helpers\_\_set\package.json134163264340252188 0
 97C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel\types-internal\package.json134163264288861129 0
 96C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\source-map-js\lib\binary-search.js134163273283282557 0
+79C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\sharp\src\stats.h134163281616355210 0
 91C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\lmdb\dependencies\lz4\lib\dll134163264336580061 1
 119C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\Doxyfile134163264285975281 0
-87C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\msgpackr-extract\index.js134163264279490420 0
 97C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel\config-default\package.json134163264280514088 0
 98C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel\diagnostic\lib\diagnostic.js134163264277119357 0
 86C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\supports-color\readme.md134163264279329021 0
-79C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\sharp\src\stats.h134163281616355210 0
+87C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\msgpackr-extract\index.js134163264279490420 0
 95C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\caniuse-lite\data\features\eot.js134163264342207215 0
 79C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\globals\readme.md134163264280481304 0
 79C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\source-map-js\lib134163273283631118 1
@@ -916,9 +920,6 @@
 104C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\caniuse-lite\data\features\do-not-track.js134163264341860053 0
 108C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel\package-manager\test\fixtures\packages134163264289760640 1
 77C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\sharp\lib\is.js134163281616516263 0
-90C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\msgpackr-extract\binding.gyp134163264277611352 0
-122C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel\core\test\fixtures\config-plugin-not-found\.parcelrc134163264284627319 0
-93C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\caniuse-lite\data\regions\BJ.js134163264334476377 0
 99C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\caniuse-lite\data\features\svg-img.js134163264347550102 0
 103C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@swc\helpers\cjs\_array_without_holes.cjs134163264284871043 0
 72C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\dotenv\lib134163264287235746 1
@@ -1108,8 +1109,8 @@
 89C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\sass\types\value\mixin.d.ts134163273284726080 0
 99C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@mischnic\json-sourcemap\package.json134163264277581320 0
 90C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\sass\types\value\string.d.ts134163273285072802 0
-93C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\caniuse-lite\data\regions\CA.js134163264335292491 0
 82C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\json5\dist\index.mjs134163264290203728 0
+93C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\caniuse-lite\data\regions\CA.js134163264335292491 0
 93C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\sass\types\util\promise_or.d.ts134163273284871152 0
 112C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\intro.doc134163264336677771 0
 96C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\sass\types\logger\source_span.d.ts134163273285049852 0
@@ -1206,7 +1207,7 @@
 79C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\parcel\lib\bin.js134163264277119357 0
 79C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\parcel\lib\cli.js134163264279480323 0
 93C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\caniuse-lite\data\regions\GY.js134163264343270100 0
-60C:\Users\JasonDeveloper\Documents\Caranguejo_v01\dist\styles134163281663806338 1
+60C:\Users\JasonDeveloper\Documents\Caranguejo_v01\dist\styles134163304379584343 1
 88C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel\transformer-js\src134163264285599876 1
 93C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\caniuse-lite\data\regions\BO.js134163264334687795 0
 82C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\ordered-binary\.idea134163264288004570 1
@@ -1297,6 +1298,9 @@
 92C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\node-addon-api\tools\README.md134163264291317032 0
 87C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel\optimizer-swc\lib134163264277019595 1
 82C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\msgpackr-extract\bin134163264278641919 1
+90C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\msgpackr-extract\binding.gyp134163264277611352 0
+122C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel\core\test\fixtures\config-plugin-not-found\.parcelrc134163264284627319 0
+93C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\caniuse-lite\data\regions\BJ.js134163264334476377 0
 86C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\msgpackr-extract\LICENSE134163264276211291 0
 108C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@swc\helpers\_\_non_iterable_rest\package.json134163264340051501 0
 91C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\msgpackr-extract\node_modules134163264349640935 1
@@ -1757,10 +1761,10 @@
 114C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@swc\helpers\_\_assert_this_initialized\package.json134163264338593639 0
 111C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@swc\helpers\_\_class_name_tdz_error\package.json134163264338994242 0
 84C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\dotenv-expand\tea.yaml134163264285569782 0
-107C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\caniuse-lite\data\features\async-clipboard.js134163264298158418 0
-117C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@swc\helpers\_\_class_apply_descriptor_get\package.json134163264338824307 0
 89C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\dotenv-expand\lib\main.d.ts134163264284881043 0
 119C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\caniuse-lite\data\features\css-font-rendering-controls.js134163264339014254 0
+117C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@swc\helpers\_\_class_apply_descriptor_get\package.json134163264338824307 0
+107C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\caniuse-lite\data\features\async-clipboard.js134163264298158418 0
 113C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel\core\test\fixtures\main-global\package.json134163264339565416 0
 81C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\dotenv\CHANGELOG.md134163264284657621 0
 78C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\dotenv\config.js134163264277638970 0
@@ -1859,12 +1863,13 @@
 100C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\caniuse-lite\dist\unpacker\features.js134163264342473217 0
 98C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\caniuse-lite\dist\unpacker\region.js134163264346613996 0
 98C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\caniuse-lite\data\browserVersions.js134163264334948826 0
+77C:\Users\JasonDeveloper\Documents\Caranguejo_v01\dist\Caranguejo.305db794.png134163304215020703 0
 87C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\caniuse-lite\data\regions134163264349437489 1
 93C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\caniuse-lite\data\regions\AD.js134163264285975281 0
 121C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\caniuse-lite\data\features\mdn-text-decoration-shorthand.js134163264345039702 0
 93C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\caniuse-lite\data\regions\AE.js134163264287566627 0
 97C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\caniuse-lite\data\regions\alt-af.js134163264291782270 0
-61C:\Users\JasonDeveloper\Documents\Caranguejo_v01\dist\scripts134163281663452314 1
+61C:\Users\JasonDeveloper\Documents\Caranguejo_v01\dist\scripts134163304379594506 1
 88C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@swc\helpers\src\index.mjs134163264342323927 0
 97C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\caniuse-lite\data\regions\alt-an.js134163264291880322 0
 105C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\caniuse-lite\data\features\localecompare.js134163264344756699 0
@@ -2447,7 +2452,6 @@
 95C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\caniuse-lite\data\features\ogv.js134163264345867047 0
 111C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\caniuse-lite\data\features\once-event-listener.js134163264345897036 0
 105C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\caniuse-lite\data\features\online-status.js134163264345907062 0
-117C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@swc\helpers\_\_class_apply_descriptor_set\package.json134163264338846084 0
 106C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\caniuse-lite\data\features\pagevisibility.js134163264345980696 0
 87C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel\core\lib\index.js134163264334348452 0
 114C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\caniuse-lite\data\features\passive-event-listener.js134163264346000691 0
@@ -2706,6 +2710,7 @@
 113C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel\runtime-js\src\helpers\browser\js-loader.js134163264293614658 0
 122C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@swc\helpers\_\_class_private_field_destructure\package.json134163264339024254 0
 121C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@swc\helpers\_\_class_extract_field_descriptor\package.json134163264338972245 0
+117C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@swc\helpers\_\_class_apply_descriptor_set\package.json134163264338846084 0
 99C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel\types-internal\lib\Cache.d.ts134163264290146079 0
 125C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@swc\helpers\_\_class_apply_descriptor_destructure\package.json134163264338787772 0
 101C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@swc\helpers\_\_call_super\package.json134163264338746806 0
@@ -3245,7 +3250,7 @@
 96C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel\core\lib\PackagerRunner.js134163264335370635 0
 97C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel\transformer-js\package.json134163264284850963 0
 108C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel\transformer-js\src\esmodule-helpers.js134163264278106113 0
-85C:\Users\JasonDeveloper\Documents\Caranguejo_v01\dist\CArangueijo_Hero05.ba2caf52.png134163281663188647 0
+85C:\Users\JasonDeveloper\Documents\Caranguejo_v01\dist\CArangueijo_Hero05.ba2caf52.png134163304380229098 0
 107C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel\transformer-js\src\mdx-components.jsx134163264285639895 0
 108C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel\transformer-js\lib\esmodule-helpers.js134163264277087956 0
 105C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel\transformer-js\lib\JSTransformer.js134163264279516991 0
@@ -3359,7 +3364,6 @@
 99C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel\reporter-cli\src\logLevels.js134163264287235746 0
 101C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel\reporter-cli\src\phaseReport.js134163264287888511 0
 96C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel\reporter-cli\src\render.js134163264287990875 0
-95C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel\reporter-cli\src\utils.js134163264288378421 0
 90C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel\profiler\build-ts.js134163264276999580 0
 83C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel\profiler\test134163264287250836 1
 98C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel\profiler\test\Tracer.test.js134163264287536641 0
@@ -3532,7 +3536,7 @@
 107C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel\core\test\ParcelConfigRequest.test.js134163264335985221 0
 96C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel\core\lib\Transformation.js134163264338059445 0
 105C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel\core\test\PublicEnvironment.test.js134163264336596234 0
-64C:\Users\JasonDeveloper\Documents\Caranguejo_v01\dist\index.html134163281692037409 0
+64C:\Users\JasonDeveloper\Documents\Caranguejo_v01\dist\index.html134163304379940150 0
 105C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel\core\test\SymbolPropagation.test.js134163264337545307 0
 101C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel\core\test\TargetRequest.test.js134163264337934427 0
 93C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel\core\test\test-utils.js134163264337984451 0
@@ -3608,7 +3612,7 @@
 105C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel\core\src\requests\PackageRequest.js134163264335317624 0
 110C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel\core\src\requests\ParcelConfigRequest.js134163264335945194 0
 102C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel\core\src\requests\PathRequest.js134163264336109068 0
-84C:\Users\JasonDeveloper\Documents\Caranguejo_v01\dist\Caranguejo_v01.59712999.js.map134163281663402696 0
+84C:\Users\JasonDeveloper\Documents\Caranguejo_v01\dist\Caranguejo_v01.59712999.js.map134163304380363693 0
 104C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel\core\src\requests\TargetRequest.js134163264337894423 0
 95C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel\core\src\public\Bundle.js134163264295876761 0
 98C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\.bin\download-msgpackr-prebuilds.cmd134163264349754316 0
@@ -3708,6 +3712,6 @@
 73C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\.bin\semver134163264349754316 0
 93C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\.bin\update-browserslist-db.cmd134163264349764953 0
 93C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\.bin\update-browserslist-db.ps1134163264349754316 0
-80C:\Users\JasonDeveloper\Documents\Caranguejo_v01\dist\Caranguejo_v01.59712999.js134163281662950250 0
-69C:\Users\JasonDeveloper\Documents\Caranguejo_v01\dist\styles\main.css134163281663762007 0
-69C:\Users\JasonDeveloper\Documents\Caranguejo_v01\dist\scripts\main.js134163281662970694 0
+80C:\Users\JasonDeveloper\Documents\Caranguejo_v01\dist\Caranguejo_v01.59712999.js134163304380229098 0
+69C:\Users\JasonDeveloper\Documents\Caranguejo_v01\dist\styles\main.css134163304379474903 0
+69C:\Users\JasonDeveloper\Documents\Caranguejo_v01\dist\scripts\main.js134163304379438820 0
