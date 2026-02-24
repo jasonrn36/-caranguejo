@@ -4,9 +4,16 @@
     font-size: 18px;
     font-weight: bold;
     text-decoration: none;
+    white-space: nowrap;
 
     &--primary {
         color: #fff;
         background-color: #EE5E04;
+    }
+
+    @media (max-width:640px) {
+        display: block;
+        width: 100%;
+        text-align: center;
     }
 }
