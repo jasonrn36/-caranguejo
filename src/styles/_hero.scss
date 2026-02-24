@@ -39,6 +39,14 @@
                         height: 60px;
                         margin-bottom: 38px;
                 }
+
+                @media (max-width: 1024px) {
+                        position: relative;
+                        top: -45px;
+                        left: 10px;
+                        display: block;
+                        height: 128px;
+                }
             }
 
             &__text {
@@ -57,6 +65,12 @@
 
             }
 
+            @media (max-width: 1024px) {
+                        margin-top: 109px;
+                        margin-bottom: 0px;
+
+            }
+
     }
 
     @media (max-width: 640px) {
@@ -72,7 +86,7 @@
 
     @media (max-width: 1024px) {
         position: relative; // para que o before funcione
-        padding-top: 70px;
+        padding-top: 60px;
         padding-bottom: 20px;
         background-image: url("../images/CArangueijo_Hero05.png");
         background-repeat: no-repeat;
