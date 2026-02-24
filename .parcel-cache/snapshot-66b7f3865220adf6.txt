@@ -102,7 +102,7 @@
 107C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\lmdb\node_modules\node-addon-api\package.json134163264290072287 0
 76C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\weak-lru-cache134163264285569782 1
 95C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel\reporter-cli\src\utils.js134163264288378421 0
-70C:\Users\JasonDeveloper\Documents\Caranguejo_v01\src\styles\_hero.scss134164202940238073 0
+70C:\Users\JasonDeveloper\Documents\Caranguejo_v01\src\styles\_hero.scss134164204800746123 0
 93C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel\watcher\src\Debounce.cc134163264284891060 0
 76C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\node-addon-api134163264290932423 1
 83C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel\graph\LICENSE134163264276364939 0
@@ -370,7 +370,7 @@
 86C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\nullthrows\nullthrows.js134163264278377576 0
 85C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\dotenv-expand\config.js134163264276761023 0
 84C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\update-browserslist-db134163264283213485 1
-73C:\Users\JasonDeveloper\Documents\Caranguejo_v01\dist\styles\main.css.map134164202942019568 0
+73C:\Users\JasonDeveloper\Documents\Caranguejo_v01\dist\styles\main.css.map134164204801563486 0
 87C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\chalk\source\templates.js134163264278295533 0
 75C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\utility-types134163264288871133 1
 113C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_copy.1134163264293979064 0
@@ -1212,7 +1212,7 @@
 79C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\parcel\lib\bin.js134163264277119357 0
 79C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\parcel\lib\cli.js134163264279480323 0
 93C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\caniuse-lite\data\regions\GY.js134163264343270100 0
-60C:\Users\JasonDeveloper\Documents\Caranguejo_v01\dist\styles134164202942029522 1
+60C:\Users\JasonDeveloper\Documents\Caranguejo_v01\dist\styles134164204801573251 1
 88C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\@parcel\transformer-js\src134163264285599876 1
 93C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\caniuse-lite\data\regions\BO.js134163264334687795 0
 82C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\ordered-binary\.idea134163264288004570 1
@@ -3716,5 +3716,5 @@
 93C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\.bin\update-browserslist-db.cmd134163264349764953 0
 93C:\Users\JasonDeveloper\Documents\Caranguejo_v01\node_modules\.bin\update-browserslist-db.ps1134163264349754316 0
 80C:\Users\JasonDeveloper\Documents\Caranguejo_v01\dist\Caranguejo_v01.59712999.js134164202941936334 0
-69C:\Users\JasonDeveloper\Documents\Caranguejo_v01\dist\styles\main.css134164202941936334 0
+69C:\Users\JasonDeveloper\Documents\Caranguejo_v01\dist\styles\main.css134164204801500452 0
 69C:\Users\JasonDeveloper\Documents\Caranguejo_v01\dist\scripts\main.js134164202941926333 0
