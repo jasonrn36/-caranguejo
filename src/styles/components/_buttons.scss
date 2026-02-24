@@ -1,0 +1,12 @@
+.button {
+    border-radius: 5px;
+    padding: 12px;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+
+    &--primary {
+        color: #fff;
+        background-color: #EE5E04;
+    }
+}

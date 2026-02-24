@@ -1,3 +1,5 @@
+@use 'components/infos_bar';
+@use 'components/buttons';
 @use 'hero';
 
 * {
@@ -5,6 +7,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: "Outfit", sans-serif;
+        list-style: none;
 }
 
 .container {
@@ -15,6 +18,7 @@
     // All right, let it's GO kkkkkk
     @media (max-width:640px) { // Resolution to smartphone
         max-width: 80%;
+        padding: 40px 0;
     }
         @media (max-width:1024px) { //Resolution to Tablet
         max-width: 90%;

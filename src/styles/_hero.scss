@@ -1,14 +1,41 @@
+
 .hero {
+    position: relative; // para que o before funcione
     padding-top: 84px;
-    padding-bottom: 100px;
+    padding-bottom: 20px;
     background-image: url("../images/CArangueijo_Hero05.png");
     background-repeat: no-repeat;
     background-size: cover;
 
-    &__text {
+    .container {
+        position: relative;
+    }
 
-        margin-top: 180px;
-        margin-bottom: 64px;
+    &::before {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: #000;
+        content: '';
+        opacity: 50%;
+    }
+
+    &__logo {
+        position: relative;
+        top: -45px;
+        left: -35px;
+        display: block;
+        margin: 0 auto;
+        height: 100px;
+        border-color: #af14fc;
+    }
+    
+    &__text {
+        margin-top: 120px;
+        margin-bottom: 10px;
+        padding-top: 10px;
             font-size: 32px;
             text-align: center;
             font-weight: 700;
@@ -16,13 +43,5 @@
         text-shadow: 2px 2px 3px #af14fc;
     }
 
-    &__logo {
-        position: relative;
-        top: -35;
-        left: -12px;
-        display: block;
-        margin: 0 auto;
-        height: 100px;
-        border-color: #af14fc;
-    }
+
 }
