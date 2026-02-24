@@ -16,11 +16,11 @@
     margin: 0 auto; // here i centralized the contain
     
     // All right, let it's GO kkkkkk
-    @media (max-width:640px) { // Resolution to smartphone
+    @media (max-width:767px) { // Resolution to smartphone
         max-width: 80%;
         padding: 40px 0;
     }
-        @media (max-width:1024px) { //Resolution to Tablet
+    @media (min-width:768) and (max-width: 1024px) { //Resolution to Tablet
         max-width: 90%;
     }
 

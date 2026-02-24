@@ -31,16 +31,16 @@
                 height: 100px;
                 border-color: #af14fc;
                 
-                @media (max-width: 640px) {
+                @media (max-width: 767px) {
                         position: relative;
                         top: -90px;
-                        left: -16px;
+                        left: 12px;
                         display: block;
                         height: 60px;
                         margin-bottom: 38px;
                 }
 
-                @media (max-width: 1024px) {
+                @media (min-width:768) and (max-width: 1024px) {
                         position: relative;
                         top: -45px;
                         left: 10px;
@@ -59,13 +59,16 @@
                 color: #fff;
                 text-shadow: 2px 2px 3px #af14fc;
 
-            @media (max-width: 640px) {
+            @media (max-width: 767px) {
                         margin-top: -38px;
-                        margin-bottom: 20px;
+                        margin-bottom: 60px;
+                    font-size: 28px;
+                    text-align: center;
+                    font-weight: 700;
 
             }
 
-            @media (max-width: 1024px) {
+            @media (min-width:768) and (max-width: 1024px) {
                         margin-top: 109px;
                         margin-bottom: 0px;
 
@@ -73,7 +76,7 @@
 
     }
 
-    @media (max-width: 640px) {
+    @media ( max-width: 767px) {
         position: relative; // para que o before funcione
         padding-top: 70px;
         padding-bottom: 20px;
@@ -84,8 +87,7 @@
         
     }
 
-    @media (max-width: 1024px) {
-        position: relative; // para que o before funcione
+    @media (min-width:768) and (max-width: 1024px) {
         padding-top: 60px;
         padding-bottom: 20px;
         background-image: url("../images/CArangueijo_Hero05.png");
@@ -94,5 +96,7 @@
         background-position: -300px 0px;
         
     }
+
+        
     
 }
