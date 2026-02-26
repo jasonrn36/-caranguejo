@@ -1,0 +1,9 @@
+.event {
+    .container {
+        display: flex;
+    }
+
+    &__image {
+        max-width: 360px;
+    }
+}

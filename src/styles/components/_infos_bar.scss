@@ -29,11 +29,16 @@
         &__infos {
             display: block;
             margin-bottom: 20px;
+
+            &__item {
+                margin-bottom: 24px; //Espaçamento estre paragrafos
+            }
         }
     }
 
     @media (min-width:768) and (max-width: 1024px) {
         display: flex;
+        
         &__infos {
             margin-bottom: 20px;
             gap: 16px
