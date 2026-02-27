@@ -1,5 +1,18 @@
+@use '../variables';
+
 .event {
     padding: 80px 0px;
+
+    &--bilheteria {
+        background-image: linear-gradient(variables.$blue2, variables.$blue1); //gradient color
+    }
+    &--banda {
+        background-image: linear-gradient(variables.$blue1,variables.$orange); //gradient color
+    }
+    &--pista {
+        background-image: linear-gradient(variables.$orange, variables.$blue1); //gradient color
+    }
+
 
     .container {
         display: flex;
@@ -10,16 +23,35 @@
     }
 
     &__details {
+        color: variables.$textColor;
         margin-right: 40px;
 
         &__title {
-            font-size: 16px;
+            font-size: 18px;
             font-weight: bold;
+            padding-bottom: 16px;
         }
         &__description {
             font-size: 16px;
             line-height: 22px;
             text-align: justify;
         }
+    }
+
+    @media (max-width: 767px){
+        .container {
+            display: block;
+        }
+
+        &__image {
+            width: 100%;
+        }
+
+        &__details{
+            margin-right: 0;
+            margin-bottom:16px;
+            text-align: justify;
+        }
+
     }
 }

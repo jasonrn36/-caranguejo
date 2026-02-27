@@ -2,13 +2,14 @@
 @use 'components/buttons';
 @use 'hero';
 @use 'components/event';
+@use 'variables';
 
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: "Outfit", sans-serif;
-        list-style: none;
+    list-style: none;
 }
 
 .container {
