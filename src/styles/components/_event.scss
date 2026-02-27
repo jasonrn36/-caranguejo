@@ -13,9 +13,14 @@
         background-image: linear-gradient(variables.$orange, variables.$blue1); //gradient color
     }
 
-
+    &--image--left {
+        .container {
+            flex-direction: row-reverse;
+        }
+    }
     .container {
         display: flex;
+        gap: 40px;
     }
 
     &__image {
@@ -24,7 +29,6 @@
 
     &__details {
         color: variables.$textColor;
-        margin-right: 40px;
 
         &__title {
             font-size: 18px;
